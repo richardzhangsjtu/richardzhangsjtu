@@ -1,9 +1,9 @@
 ### Hi there!👋 I'm Abysswaltz, and you can call my preferred name Richard as well. Nice to meet you!
 
 ## I'm...
-#  · A senior undergraduate majoring in mechanical engineering @ SJTU & UPenn
-#  · Writes C / Python most of the time and uses SolidWorks / MATLAB frequently 
-#  · Preferred Pronouns: He/Him
+  · A senior undergraduate majoring in mechanical engineering @ SJTU & UPenn
+  · Writes C / Python most of the time and uses SolidWorks / MATLAB frequently 
+  · Preferred Pronouns: He/Him
 
 <!--
 **richardzhangsjtu/richardzhangsjtu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
