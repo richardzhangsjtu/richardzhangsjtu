@@ -1,4 +1,4 @@
-Hi there!👋 I'm Abysswaltz, and you can call my preferred name Richard as well. Nice to meet you!
+Hi there!👋 I'm Abysswaltz, and you can call me my preferred name Richard as well. Nice to meet you!
 * * *
  I'm...
  - · A senior undergraduate majoring in mechanical engineering @ SJTU & UPenn
